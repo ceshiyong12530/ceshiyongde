@@ -580,7 +580,6 @@ CETV-4,https://live.goodiptv.club/api/cqyx.php?id=cetv-4SD
 
 
 BESTV直播,#genre#
-BESTV直播,#genre#
 CCTV1,http://angtv.cc/test/bestv.php?id=cctv1hd8m/8000000
 CCTV2,http://angtv.cc/test/bestv.php?id=cctv2hd8m/8000000
 CCTV3,http://angtv.cc/test/bestv.php?id=cctv38m/8000000
