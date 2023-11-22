@@ -579,7 +579,7 @@ CETV-4,https://live.goodiptv.club/api/cqyx.php?id=cetv-4SD
 
 
 
-BESTV直播,#genre#
+BESTV直播（可能窜台）,#genre#
 CCTV1,http://angtv.cc/test/bestv.php?id=cctv1hd8m/8000000
 CCTV2,http://angtv.cc/test/bestv.php?id=cctv2hd8m/8000000
 CCTV3,http://angtv.cc/test/bestv.php?id=cctv38m/8000000
@@ -675,7 +675,7 @@ CCTV17,http://angtv.cc/test/bestv.php?id=cctv17hd8m/8000000
 
 
 
-蜀小果IPV4,#genre#
+蜀小果IPV4（失效）,#genre#
 CCTV-1 综合,http://angtv.cc/test/xg.php?id=CCTV-1H265_4000
 CCTV-2 财经,http://angtv.cc/test/xg.php?id=CCTV-2H265_4000
 CCTV-3 综艺,http://angtv.cc/test/xg.php?id=CCTV-3H265_4000
